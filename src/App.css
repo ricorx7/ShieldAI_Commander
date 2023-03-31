@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#map { height: 180px; }
+
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+

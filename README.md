@@ -1,3 +1,10 @@
+# Generate Data
+
+```
+npx ts-node index.ts objects --bb -117.1611,32.7157,-118.1611,32.9157 --d 5 --o ./objects.json
+npx ts-node index.ts paths --bb -117.1611,32.7157,-118.1611,32.9157 --d 5 --o ./paths.json
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
